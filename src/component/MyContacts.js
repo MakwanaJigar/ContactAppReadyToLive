@@ -115,16 +115,18 @@ let clickDelete = async(contactId) =>{
         <button className="btn btn-outline-light" type="submit"><i className='fa fa-search'></i></button>
       </form>  */}
 {/* SEARCH BAR ENDS HERE */}
-<div className='float-end m-3'>
-<Link className='btn btn-primary mx-3' to="/createcontacts" ><i className='fa fa-user-plus'></i></Link>
-<Link className="btn btn-danger "  to='/'><i class="fa-solid fa-right-from-bracket mx-2"></i></Link> 
-</div>
+
       {
         loading ? <Spinner /> : <>
 
 <section className='contact-list'>
         <div className='container'>
         <h1 className='text-dark'>MY CONTACT</h1>
+
+        <div className='m-3'>
+<Link className='btn btn-primary mx-3' to="/createcontacts" ><i className='fa fa-user-plus'></i></Link>
+{/* <Link className="btn btn-danger "  to='/'><i class="fa-solid fa-right-from-bracket mx-2"></i></Link>  */}
+</div>
 
         {/* <Link className='btn btn-primary' to="/createcontacts" ><i className='fa fa-user-plus'></i></Link> */}
           <div className='row'>
@@ -162,9 +164,9 @@ let clickDelete = async(contactId) =>{
                         </ul>
     
                       </div>
-                      <div className='col-md-1 align-items-center d-flex flex-column'>
+                      <div className='col-md-1 align-items-center mt-4 d-flex flex-column'>
     
-                          <Link className="btn btn-warning my-1" to={`/ViewContacts/${contact.id}`}><i className='fa fa-eye'></i></Link>
+                          <Link className="btn btn-warning my-1 " to={`/ViewContacts/${contact.id}`}><i className='fa fa-eye'></i></Link>
                           <Link className="btn btn-success my-1" to={`/EditContact/${contact.id}`}><i className='fa fa-pen'></i></Link>
                           <button className="btn btn-danger my-1" onClick={() =>clickDelete (contact.id)}><i className='fa fa-trash'></i></button>
     
