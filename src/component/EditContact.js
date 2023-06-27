@@ -91,6 +91,16 @@ let submitForm = async (event) => {
                 <div className="col-md-4">
                   <form className="" onSubmit={submitForm}>
                     <h4>Personal</h4>
+
+                    <div className="col-md-6 my-2">
+                  {/* <img src={contact.photourl} className="contact-img" alt="" /> */}
+                  <img
+                      src={contact.photourl}
+                      className="contact-img"
+                      alt=""
+                    />
+                </div>
+
                     <div className="">
                       <input
                         className="form-control mb-2"
@@ -231,14 +241,13 @@ let submitForm = async (event) => {
                     </Link>
                   </form>
                 </div>
-                <div className="col-md-6">
-                  {/* <img src={contact.photourl} className="contact-img" alt="" /> */}
+                {/* <div className="col-md-6">
                   <img
                       src={contact.photourl}
                       className="contact-img"
                       alt=""
                     />
-                </div>
+                </div> */}
               </div>
             </div>
           </section>

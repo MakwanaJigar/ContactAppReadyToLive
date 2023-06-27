@@ -42,8 +42,9 @@ li a:hover {
 }
 body{
   /* background-color: rgb(250, 245, 247); */
-  /* background-image: url("https://images.unsplash.com/photo-1533035353720-f1c6a75cd8ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGxhaW4lMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60");
-   */
+  background-image: url("C:\Users\BAPS\Pictures\background.webp");
+  overflow-x: hidden;
+  
 }
 .contact-img{
   width: 200px;
@@ -51,7 +52,7 @@ body{
   border-radius: 250px;
 }
 #jigar{
-  background-image: url("https://mdbootstrap.com/img/new/ecommerce/vertical/004.jpg");
+  /* background-image: url("https://mdbootstrap.com/img/new/ecommerce/vertical/004.jpg"); */
 }
 #ABC{
  
@@ -60,4 +61,4 @@ body{
   /* max-height: 80%; */
   overflow-x: scroll;
 }
-
+ 

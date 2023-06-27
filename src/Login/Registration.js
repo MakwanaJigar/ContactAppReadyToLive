@@ -74,8 +74,8 @@ const Registration = () => {
   return (
     <div>
         
-        <div className='offset-lg-3 col-lg-6'>
-            <form className='container' onSubmit={handlesubmit}>
+        <div className='offset-lg-3 col-lg-4 position-absolute' id='register'>
+            <form className='container m-3' id='register' onSubmit={handlesubmit}>
                 <div className='card'>
                     <div className='card-header'>
                           <h2 className='fw-bold text-success text-center'>Create User</h2>              

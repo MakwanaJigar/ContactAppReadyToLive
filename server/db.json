@@ -1,22 +1,10 @@
 {
   "user": [
     {
-      "id": "Jigar",
-      "name": "JigarMakwana",
-      "password": "Jigar@150299",
-      "email": "jigar@manamisolutions.com"
-    },
-    {
-      "id": "Sohil",
-      "name": "SohilMakwana",
-      "password": "Sohil@150299",
-      "email": "sohil@gmail.com"
-    },
-    {
-      "id": "Mayank",
-      "name": "MayankPatel",
-      "password": "Mayank@150299",
-      "email": "mayank@gmail.com"
+      "id": "ManamiSolutions",
+      "name": "Manami Solutions",
+      "password": "ManamiSolutions@822",
+      "email": "ManamiSolutions@gmail.com"
     }
   ],
   "MyContact": [
@@ -25,7 +13,7 @@
       "lastname": "Shrotriya",
       "birthdate": "2000-03-10",
       "anniversary": "2013-03-11",
-      "photourl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHVzZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+      "photourl": "https://www.manamisolutions.com/images/Nikita_img.jpeg",
       "phoneno": "9752202194",
       "address": "Indore",
       "email": "nikita@manamisolutions.com",
@@ -42,7 +30,7 @@
       "lastname": "Upadhya",
       "birthdate": "2002-01-10",
       "anniversary": "2012-04-11",
-      "photourl": "https://images.unsplash.com/photo-1555421689-3f034debb7a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM4fHx1c2VyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "photourl": "https://www.manamisolutions.com/images/Lakshya_img.jpeg",
       "phoneno": "9662844828",
       "address": "Ahmedabad",
       "email": "lakshya@manamisolutions.com",
@@ -59,7 +47,7 @@
       "lastname": "Dave",
       "birthdate": "2000-11-12",
       "anniversary": "2021-04-11",
-      "photourl": "https://images.unsplash.com/photo-1627900352514-7f8bbb3f5edb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMzfHx1c2VyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "photourl": "https://www.manamisolutions.com/images/Dhara_img.jpeg",
       "phoneno": "9725913891",
       "address": "Ahmedabad",
       "email": "dhara@manamisolutions.com",
@@ -75,8 +63,8 @@
       "firstname": "Jigar",
       "lastname": "Makwana",
       "birthdate": "1999-02-15",
-      "anniversary": "2023-06-17",
-      "photourl": "https://images.unsplash.com/flagged/photo-1573740144655-bbb6e88fb18a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXNlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "anniversary": "",
+      "photourl": "https://www.manamisolutions.com/images/Jigar_img.jpeg",
       "phoneno": "8511721552",
       "address": "Mehsana",
       "email": "Jigar@manamisolution.com",
@@ -93,7 +81,7 @@
       "lastname": "Shah",
       "birthdate": "1990-03-12",
       "anniversary": "2012-03-13",
-      "photourl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHVzZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+      "photourl": "https://www.manamisolutions.com/images/Navil_img.jpg",
       "phoneno": "9998652244",
       "address": "Ahmedabad",
       "email": "navil@manamisolutions.com",
@@ -106,21 +94,55 @@
       "id": 9
     },
     {
-      "firstname": "Keyur ",
-      "lastname": "Patel",
-      "birthdate": "1987-03-20",
-      "anniversary": "2011-03-13",
-      "photourl": "https://images.unsplash.com/photo-1524952249965-023a2a31663d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fHVzZXIlMjBwcm9maWxlfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
-      "phoneno": "9685222390",
-      "address": "Panjab",
-      "email": "Keyur@outlook.com",
-      "companyname": "Google",
-      "jobtitle": "Team Leader",
-      "tag": "Fullstack",
-      "reffrom": "Self",
-      "refto": "OWN",
-      "relation": "",
+      "firstname": "Sayjal",
+      "lastname": "Rai",
+      "birthdate": "2000-01-01",
+      "anniversary": "",
+      "photourl": "https://www.manamisolutions.com/images/Sejal_img.jpeg",
+      "phoneno": "8327224807",
+      "address": "Sikkim",
+      "email": "sayjal@manamisolutions.com",
+      "companyname": "Manami Solutions",
+      "jobtitle": "Jr.Software Developer",
+      "tag": "Back-end",
+      "reffrom": "Shreya ma'am",
+      "refto": "Manan sir",
+      "relation": "Family",
       "id": 10
+    },
+    {
+      "firstname": "Rani ",
+      "lastname": "Sharma",
+      "birthdate": "2000-01-01",
+      "anniversary": "",
+      "photourl": "https://www.manamisolutions.com/images/Rani_img.jpeg",
+      "phoneno": "9685222390",
+      "address": "Dehli",
+      "email": "rani@manamisolutions.com",
+      "companyname": "Manami Solutions",
+      "jobtitle": "Tester",
+      "tag": "Tester",
+      "reffrom": "Shreya ma'am",
+      "refto": "Manan sir",
+      "relation": "Family",
+      "id": 11
+    },
+    {
+      "firstname": "Karan",
+      "lastname": "Patel",
+      "birthdate": "2006-04-25",
+      "anniversary": "",
+      "photourl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAMAAAAqJH57AAAAY1BMVEUAAAD///+2trb39/cmJiby8vLf39+6urpubm5MTEyEhITT09Pu7u69vb3Q0NB4eHgcHBw9PT0wMDDm5uarq6uNjY2kpKQPDw+dnZ1fX1/Z2dnGxsZVVVVnZ2cXFxdDQ0OVlZXVc5RmAAAENElEQVRogc2b6ZKqMBCFI4uAsgjKooLy/k959U6NCiTpLVhz/stXCTHdfbpRG462UVMk1U3dqqRooi3rGYr+kyw+qKkOcbY+eVsHSqegpq6cRt4WrZb7VFvQ2BSyPxqxPxr9dcj7CgA/9ny/BrkBuU917slnFFips2NymCDBSt1Dl+TwjgYrVaYOyfgV/1+1O/JAAiPfNYaMO9WfwpxwBHlLBit1cUKGL5ClAhfkjgHG7DdIPrLASh3F5B2TvJOSj/MsAKsbtGiIzHvLT41CcskmlzLylQ1W6ioic8/XU8AZA8j8zVaqkpCP5oQPVms/3Xay5DUrZU/C7eSTiNwIyIWIXAjItFxkLntuYidzAuRb9lBpJ4vACnj2HyVL/s4ysuw92y8xO7kXkRMBWRIwZP9nT0Q+Cciye9seoO3kVBSr7JUdEJ8pNeRcQGEHkEcBuRaR9wIy4Jn82dxTkBvY8wKYnHIv0ADyLMC6iltkQCUGTE71Pqd4yYj6mXeDeuBzEZ4BJxmzhyksOWWQwbod5w1lZDDGaEf5YdQwDfoFaPImJoFj1DORjivFBRxwj8S6zPg6B7digr9dI8FAbGSQkZkRvn1E6GOEcA6cIF11Inmziex3eBBRHkbrV4WNOWhWDWHBZPKD7en3PPFoXFZf8tL1010P+g7hZzsgPxTm2Rj3ZVX28Zjl1NVKyC70h8n+3quTQznimlCPF9ElVVJ7e7A5CniA2fB7mAI4v3nq9ZcPhozvAebDxFaP4WWnk3B6GHIO2T8t8q9bZ99Cv7kt/uYn409MZE97WVUWtq+/30rTlaon783V606/g7k5Y7rrrxktGci7Ym86UbD1gLxBG7M15AumfqziuvEir6ljTOF11ww/LMkyV8akZcawIPPbRHYtito5WeaA2TR/2epb4AV6Sl5rq3/UmMmytgWsk4mcrwxWKteT2ZYIXlWqJVMnKDgadOS1X/KPmiU5XUS4VfRuGb7ItBKZr/OcfPkS+H2+f8nYISy5+imZMyfD1XZCHr9IHidkrCPgnrz+xfmWPz1h3/pTvcPGL9n/FvjliL5ukuhL5OUdJuzsY/UO0W9yKJkdweqjVfkRJb9wgX7Ogn7mJOtk2p/6rHMmedja98kk3Z/mnrJONyRL7imbUII06yPNawzZ7IpNc6N/TvbXQi86DIuKDuHoOgFrqlh/jfREU7vrPAP3cUs38ap1K0bHYK3Rr3doZDMVMx30jpzBlbq4q7HOBivY5IeFrmp44ziL2X3MeI3nqXrzFzEW3zOV5wq2KW6r15tLBlkeJavV7AX8bY8/vnMXzpMYrFdQPTBPjOomZPQgMrj5NuHxvgvKOS9HRK8f3UFJozNubL6Kc+TnXfjezTGDbN223OXYRgu1a5SfdoZ8qU1q4teL9H6Vf7l6XXFOqqBVbVAmw67xroxPJv8By6c24wflpjoAAAAASUVORK5CYII=",
+      "phoneno": "1235644897616",
+      "address": "Surat",
+      "email": "karan@gmail.com",
+      "companyname": "Google",
+      "jobtitle": "Jr.Software Developer",
+      "tag": "Back-end",
+      "reffrom": "Shreya ma'am",
+      "refto": "Manan sir",
+      "relation": "Family",
+      "id": 12
     }
   ]
 }

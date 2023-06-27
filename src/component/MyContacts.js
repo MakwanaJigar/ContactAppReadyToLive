@@ -115,7 +115,10 @@ let clickDelete = async(contactId) =>{
         <button className="btn btn-outline-light" type="submit"><i className='fa fa-search'></i></button>
       </form>  */}
 {/* SEARCH BAR ENDS HERE */}
-
+<div className='float-end m-3'>
+<Link className='btn btn-primary mx-3' to="/createcontacts" ><i className='fa fa-user-plus'></i></Link>
+<Link className="btn btn-danger "  to='/'><i class="fa-solid fa-right-from-bracket mx-2"></i></Link> 
+</div>
       {
         loading ? <Spinner /> : <>
 
@@ -123,7 +126,7 @@ let clickDelete = async(contactId) =>{
         <div className='container'>
         <h1 className='text-dark'>MY CONTACT</h1>
 
-        <Link className='btn btn-primary' to="/createcontacts" >Add<i className='fa fa-user-plus ms-2'></i></Link>
+        {/* <Link className='btn btn-primary' to="/createcontacts" ><i className='fa fa-user-plus'></i></Link> */}
           <div className='row'>
             
                  {

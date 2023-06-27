@@ -48,7 +48,7 @@ return (
         <Route path='/createuser' element={<Registration />}/>
           <Route path='/Mycontact' element={<MyContacts />}/>
           <Route path='/createcontacts' element={<CreateContact />}/>
-          <Route path='/' element={<Login />}/>
+          {/* <Route path='/' element={<Login />}/> */}
           <Route path='/EditContact/:contactId' element={<EditContact />}/>
           <Route path='/ViewContacts/:contactId' element={<ViewContacts/>}/>
         </Routes>

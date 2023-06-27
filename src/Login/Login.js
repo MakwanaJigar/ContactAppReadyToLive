@@ -59,9 +59,9 @@ const validate=() => {
 }
 
   return (
-   <div className="row mt-5" >
-    <div className="offset-lg-3 col-lg-6">
-      <form onSubmit={ProceedLogin}>
+   <div className="row d-flex" >
+    <div className="offset-lg-3 col-lg-4 ">
+      <form onSubmit={ProceedLogin} className="m-3" id="login">
         <div className="card">
           <div className="card-header">
                 <h2 className="fw-bold text-success">Login</h2>
